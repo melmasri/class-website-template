@@ -1,4 +1,3 @@
-cse3521-website
-===============
+# A website class template
 
-http://cse3521.artifice.cc
+Inspired by [joshuaeckroth][https://github.com/joshuaeckroth/cse3521-website] and used in http://cse3521.artifice.cc
