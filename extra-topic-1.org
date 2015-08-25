@@ -1,28 +1,19 @@
 #+SETUPFILE: setup.org
-#+TITLE: Computer vision
+#+TITLE: Extra-topic 1
 
-* A note about the photo
+* Topic 2
 
 #+BEGIN_HTML
 <img align="left" src="images/lena.jpg" alt="Lena (Lenna) Söderberg"
 title="Lena (Lenna) Söderberg" style="margin: 0 10px 10px 0;"/>
 #+END_HTML
 
-This photo of Lena (Lenna) Söderberg is the most widely used test
-image for computer vision applications. I have made a conscious
-decision to use this image for examples on this webpage. We should be
-respectful of the woman in the photo and know how this image came to
-be. Read about the photo at [[http://www.cs.cmu.edu/~chuck/lennapg/lenna.shtml][The Lenna story]].
 
 #+BEGIN_HTML
 <div style="clear: both;" />
 #+END_HTML
 
-* OpenCV
-
-All the code in the computer vision examples uses OpenCV. The OpenCV
-homepage is [[http://opencv.org][opencv.org]]; you'll want to look at their [[http://docs.opencv.org/2.4.3/modules/refman.html][reference manual]]
-and [[http://docs.opencv.org/doc/tutorials/tutorials.html][tutorials]], in particular [[http://docs.opencv.org/doc/tutorials/introduction/table_of_content_introduction/table_of_content_introduction.html#table-of-content-introduction][tutorials about installation]].
+* Topic 1
 
 
 #+INCLUDE: footer.org

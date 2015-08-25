@@ -1,5 +1,0 @@
-digraph g {
-        y -> z;
-        x -> z;
-        x -> y;
-}

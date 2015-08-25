@@ -1,7 +1,0 @@
-digraph g {
-        tampering -> alarm;
-        fire -> alarm;
-        fire -> smoke;
-        alarm -> leaving;
-        leaving -> report;
-}
